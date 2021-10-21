@@ -7,7 +7,6 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
 <br />
-<br />
 
 
 ### Connect with me:

@@ -8,35 +8,35 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.0.0/icons/twitter.svg" />](twitter_contact)
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.0.0/icons/linkedin.svg" />](instagram_contact)
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.0.0/icons/instagram.svg" />](linkedin_contact)
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/upwork.svg" />](upwork_contact)
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.0.0/icons/twitter.svg" />][twitter_contact]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.0.0/icons/linkedin.svg" />][instagram_contact]
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.0.0/icons/instagram.svg" />][linkedin_contact]
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/upwork.svg" />][upwork_contact]
 <br />
 
 ### Languages and Tools:
 
-[<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.0.0/icons/python.svg" />](python)
-[<img align="left" alt="Django" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.0.0/icons/django.svg" />](django)
-[<img align="left" alt="Flask" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.0.0/icons/flask.svg" />](flask)
-[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.0.0/icons/nodedotjs.svg" />](nodejs)
-[<img align="left" alt="Express" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.0.0/icons/express.svg" />](express)
-[<img align="left" alt="Nest.js" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.0.0/icons/nestjs.svg" />](nestjs)
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.0.0/icons/html5.svg" />](html)
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.0.0/icons/css3.svg" />](css)
-[<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.0.0/icons/sass.svg" />](sass)
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.0.0/icons/javascript.svg" />](javascript)
-[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.0.0/icons/react.svg" />](react)
-[<img align="left" alt="Svelte" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.0.0/icons/svelte.svg" />](svelte)
-[<img align="left" alt="Angular" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.0.0/icons/angular.svg" />](angular)
-[<img align="left" alt="React Native" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.0.0/icons/react.svg" />](react_native)
-[<img align="left" alt="Flutter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.0.0/icons/flutter.svg" />](flutter)
-[<img align="left" alt="Redux" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.0.0/icons/redux.svg" />](redux)
-[<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.0.0/icons/graphql.svg" />](graphql)
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.0.0/icons/git.svg" />](git)
-[<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.0.0/icons/github.svg" />](github)
-[<img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.0.0/icons/linux.svg" />](linux)
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.0.0/icons/visualstudiocode.svg" />](vscode)
+[<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.0.0/icons/python.svg" />][python]
+[<img align="left" alt="Django" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.0.0/icons/django.svg" />][django]
+[<img align="left" alt="Flask" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.0.0/icons/flask.svg" />][flask]
+[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.0.0/icons/nodedotjs.svg" />][nodejs]
+[<img align="left" alt="Express" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.0.0/icons/express.svg" />][express]
+[<img align="left" alt="Nest.js" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.0.0/icons/nestjs.svg" />][nestjs]
+[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.0.0/icons/html5.svg" />][html]
+[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.0.0/icons/css3.svg" />][css]
+[<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.0.0/icons/sass.svg" />][sass]
+[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.0.0/icons/javascript.svg" />][javascript]
+[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.0.0/icons/react.svg" />][react]
+[<img align="left" alt="Svelte" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.0.0/icons/svelte.svg" />][svelte]
+[<img align="left" alt="Angular" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.0.0/icons/angular.svg" />][angular]
+[<img align="left" alt="React Native" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.0.0/icons/react.svg" />][react_native]
+[<img align="left" alt="Flutter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.0.0/icons/flutter.svg" />][flutter]
+[<img align="left" alt="Redux" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.0.0/icons/redux.svg" />][redux]
+[<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.0.0/icons/graphql.svg" />][graphql]
+[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.0.0/icons/git.svg" />][git]
+[<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.0.0/icons/github.svg" />][github]
+[<img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.0.0/icons/linux.svg" />][linux]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.0.0/icons/visualstudiocode.svg" />][vscode]
 
 
 [twitter_contact]: https://twitter.com/lluchkaa

@@ -17,6 +17,7 @@
 ### Languages and Tools:
 
 [<img align="left" alt="Go" width="26px" src="https://cdn.simpleicons.org/go" />][go]
+[<img align="left" alt="Go" width="26px" src="https://cdn.simpleicons.org/rust" />][rust]
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.simpleicons.org/javascript" />][javascript]
 [<img align="left" alt="Node.js" width="26px" src="https://cdn.simpleicons.org/nodedotjs" />][nodejs]
 [<img align="left" alt="Express" width="26px" src="https://cdn.simpleicons.org/express" />][express]
@@ -39,6 +40,7 @@
 [upwork_contact]: https://www.upwork.com/freelancers/~01b78045e77027a78f
 
 [go]: https://go.dev
+[rust]: https://www.rust-lang.org
 [javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [nodejs]: https://nodejs.org
 [express]: https://expressjs.com

@@ -8,30 +8,31 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Telegram" width="22px" src="https://cdn.simpleicons.org/telegram" />][telegram_contact]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin" />][linkedin_contact]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.simpleicons.org/instagram" />][instagram_contact]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.simpleicons.org/upwork" />][upwork_contact]
+[<img align="left" alt="Telegram" width="22px" src="https://cdn.simpleicons.org/telegram/black/white" />][telegram_contact]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin/black/white" />][linkedin_contact]
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.simpleicons.org/instagram/black/white" />][instagram_contact]
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.simpleicons.org/upwork/black/white" />][upwork_contact]
 <br />
 
 ### Languages and Tools:
 
-[<img align="left" alt="Go" width="26px" src="https://cdn.simpleicons.org/go" />][go]
-[<img align="left" alt="Go" width="26px" src="https://cdn.simpleicons.org/rust" />][rust]
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.simpleicons.org/javascript" />][javascript]
-[<img align="left" alt="Node.js" width="26px" src="https://cdn.simpleicons.org/nodedotjs" />][nodejs]
-[<img align="left" alt="Express" width="26px" src="https://cdn.simpleicons.org/express" />][express]
-[<img align="left" alt="Nest.js" width="26px" src="https://cdn.simpleicons.org/nestjs" />][nestjs]
-[<img align="left" alt="Python" width="26px" src="https://cdn.simpleicons.org/python" />][python]
-[<img align="left" alt="React" width="26px" src="https://cdn.simpleicons.org/react" />][react]
-[<img align="left" alt="Svelte" width="26px" src="https://cdn.simpleicons.org/svelte" />][svelte]
-[<img align="left" alt="Angular" width="26px" src="https://cdn.simpleicons.org/angular" />][angular]
-[<img align="left" alt="React Native" width="26px" src="https://cdn.simpleicons.org/react" />][react_native]
-[<img align="left" alt="Flutter" width="26px" src="https://cdn.simpleicons.org/flutter" />][flutter]
-[<img align="left" alt="GraphQL" width="26px" src="https://cdn.simpleicons.org/graphql" />][graphql]
-[<img align="left" alt="Git" width="26px" src="https://cdn.simpleicons.org/git" />][git]
-[<img align="left" alt="GitHub" width="26px" src="https://cdn.simpleicons.org/github" />][github]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.simpleicons.org/visualstudiocode" />][vscode]
+[<img align="left" alt="Go" width="26px" src="https://cdn.simpleicons.org/go/black/white" />][go]
+[<img align="left" alt="Go" width="26px" src="https://cdn.simpleicons.org/rust/black/white" />][rust]
+[<img align="left" alt="JavaScript" width="26px" src="https://cdn.simpleicons.org/javascript/black/white" />][javascript]
+[<img align="left" alt="Node.js" width="26px" src="https://cdn.simpleicons.org/nodedotjs/black/white" />][nodejs]
+[<img align="left" alt="Express" width="26px" src="https://cdn.simpleicons.org/express/black/white" />][express]
+[<img align="left" alt="Nest.js" width="26px" src="https://cdn.simpleicons.org/nestjs/black/white" />][nestjs]
+[<img align="left" alt="Python" width="26px" src="https://cdn.simpleicons.org/python/black/white" />][python]
+[<img align="left" alt="React" width="26px" src="https://cdn.simpleicons.org/react/black/white" />][react]
+[<img align="left" alt="Svelte" width="26px" src="https://cdn.simpleicons.org/svelte/black/white" />][svelte]
+[<img align="left" alt="Angular" width="26px" src="https://cdn.simpleicons.org/angular/black/white" />][angular]
+[<img align="left" alt="React Native" width="26px" src="https://cdn.simpleicons.org/react/black/white" />][react_native]
+[<img align="left" alt="Flutter" width="26px" src="https://cdn.simpleicons.org/flutter/black/white" />][flutter]
+[<img align="left" alt="GraphQL" width="26px" src="https://cdn.simpleicons.org/graphql/black/white" />][graphql]
+[<img align="left" alt="Git" width="26px" src="https://cdn.simpleicons.org/git/black/white" />][git]
+[<img align="left" alt="GitHub" width="26px" src="https://cdn.simpleicons.org/github/black/white" />][github]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.simpleicons.org/neovim/black/white" />][neovim]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.simpleicons.org/visualstudiocode/black/white" />][vscode]
 
 
 [telegram_contact]: https://lluchkaa.t.me
@@ -54,4 +55,5 @@
 [graphql]: https://graphql.org
 [git]: https://git-scm.com
 [github]: https://github.com
+[neovim]: https://neovim.io
 [vscode]: https://code.visualstudio.com

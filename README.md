@@ -3,8 +3,8 @@
 ## I'm a Developer!!
 
 - 🔭 I’m currently working on `React` + `Node.js` project
-- 🌱 I’m currently learning Go and Rust
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 🌱 I’m currently learning Go and OCaml
+- 🥅 2024 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 
@@ -17,7 +17,8 @@
 ### Languages and Tools:
 
 [<img align="left" alt="Go" width="26px" src="https://cdn.simpleicons.org/go/black/white" />][go]
-[<img align="left" alt="Go" width="26px" src="https://cdn.simpleicons.org/rust/black/white" />][rust]
+[<img align="left" alt="Rust" width="26px" src="https://cdn.simpleicons.org/rust/black/white" />][rust]
+[<img align="left" alt="OCaml" width="26px" src="https://cdn.simpleicons.org/ocaml/black/white" />][ocaml]
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.simpleicons.org/javascript/black/white" />][javascript]
 [<img align="left" alt="Node.js" width="26px" src="https://cdn.simpleicons.org/nodedotjs/black/white" />][nodejs]
 [<img align="left" alt="Express" width="26px" src="https://cdn.simpleicons.org/express/black/white" />][express]
@@ -43,6 +44,7 @@
 [go]: https://go.dev
 [rust]: https://www.rust-lang.org
 [javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+[ocaml]: https://ocaml.org
 [nodejs]: https://nodejs.org
 [express]: https://expressjs.com
 [nestjs]: https://nestjs.com

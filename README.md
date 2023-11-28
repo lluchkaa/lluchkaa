@@ -3,7 +3,7 @@
 ## I'm a Developer!!
 
 - 🔭 I’m currently working on `React` + `Node.js` project
-- 🌱 I’m currently learning Go and OCaml
+- 🌱 I’m currently learning `Go` and `OCaml`
 - 🥅 2024 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
@@ -43,8 +43,8 @@
 
 [go]: https://go.dev
 [rust]: https://www.rust-lang.org
-[javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [ocaml]: https://ocaml.org
+[javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [nodejs]: https://nodejs.org
 [express]: https://expressjs.com
 [nestjs]: https://nestjs.com

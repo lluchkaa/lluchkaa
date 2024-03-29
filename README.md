@@ -17,6 +17,7 @@
 ### Languages and Tools:
 
 [<img align="left" alt="Go" width="26px" src="https://cdn.simpleicons.org/go/black/white" />][go]
+[<img align="left" alt="Go" width="26px" src="https://cdn.simpleicons.org/ocaml/black/white" />][ocaml]
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.simpleicons.org/javascript/black/white" />][javascript]
 [<img align="left" alt="Node.js" width="26px" src="https://cdn.simpleicons.org/nodedotjs/black/white" />][nodejs]
 [<img align="left" alt="Express" width="26px" src="https://cdn.simpleicons.org/express/black/white" />][express]

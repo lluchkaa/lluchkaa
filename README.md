@@ -18,7 +18,6 @@
 
 [<img align="left" alt="Go" width="26px" src="https://cdn.simpleicons.org/go/black/white" />][go]
 [<img align="left" alt="Rust" width="26px" src="https://cdn.simpleicons.org/rust/black/white" />][rust]
-[<img align="left" alt="OCaml" width="26px" src="https://cdn.simpleicons.org/ocaml/black/white" />][ocaml]
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.simpleicons.org/javascript/black/white" />][javascript]
 [<img align="left" alt="Node.js" width="26px" src="https://cdn.simpleicons.org/nodedotjs/black/white" />][nodejs]
 [<img align="left" alt="Express" width="26px" src="https://cdn.simpleicons.org/express/black/white" />][express]
@@ -42,7 +41,6 @@
 [upwork_contact]: https://www.upwork.com/freelancers/~01b78045e77027a78f
 
 [go]: https://go.dev
-[rust]: https://www.rust-lang.org
 [ocaml]: https://ocaml.org
 [javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [nodejs]: https://nodejs.org

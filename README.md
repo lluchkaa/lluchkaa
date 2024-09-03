@@ -32,7 +32,6 @@
 [<img align="left" alt="Git" width="26px" src="https://cdn.simpleicons.org/git/black/white" />][git]
 [<img align="left" alt="GitHub" width="26px" src="https://cdn.simpleicons.org/github/black/white" />][github]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.simpleicons.org/neovim/black/white" />][neovim]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.simpleicons.org/visualstudiocode/black/white" />][vscode]
 
 
 [telegram_contact]: https://lluchkaa.t.me
@@ -56,4 +55,3 @@
 [git]: https://git-scm.com
 [github]: https://github.com
 [neovim]: https://neovim.io
-[vscode]: https://code.visualstudio.com

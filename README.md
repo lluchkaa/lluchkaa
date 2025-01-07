@@ -3,7 +3,7 @@
 ## I'm a Developer!!
 
 - 🔭 I’m currently working on `React` + `Node.js` project
-- 🌱 I’m currently learning `Go` and `OCaml`
+- 🌱 I’m currently learning `Go`
 - 🥅 2024 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
